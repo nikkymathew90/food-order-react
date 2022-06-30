@@ -20,13 +20,13 @@ const AvailableMeals = () => {
       id: "m3",
       name: "Barbecue Burger",
       description: "American, raw, meaty",
-      price: 12.99,
+      price: 12,
     },
     {
       id: "m4",
       name: "Green Bowl",
       description: "Healthy...and green...",
-      price: 18.99,
+      price: 8,
     },
   ];
 
